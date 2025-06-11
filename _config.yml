@@ -1,10 +1,10 @@
 # Site Settings
-title: Mere Blog Theme
-tagline: Mere Blog Theme
-email: your-email@domain.com
+title: Springfield Newsletter
+tagline: For Springfield Businesses
+email: ryfuller03@gmail.com
 description: >
-  The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
-baseurl: "/mere-blog-theme"
+  Newsletter for Springfield resident-owned businesses
+baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
 force_theme: light
@@ -41,7 +41,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Ryan Fuller"
       layout: post
       image: /img/home.jpg
       show_sidebar: true
